@@ -1,0 +1,20 @@
+============================================================
+ANOMALY DETECTION REPORT
+============================================================
+
+Total anomalies detected: 67
+
+ANOMALY BREAKDOWN:
+  Peak (High Sales): 67
+
+TOP ANOMALIES:
+  {'Order_Date': Timestamp('2019-02-06 00:00:00'), 'Sales': 33871.89, 'Orders': 4, 'Anomaly_Type': 'Peak (High Sales)'}
+  {'Order_Date': Timestamp('2019-02-18 00:00:00'), 'Sales': 48141.44, 'Orders': 7, 'Anomaly_Type': 'Peak (High Sales)'}
+  {'Order_Date': Timestamp('2019-04-21 00:00:00'), 'Sales': 26935.940000000002, 'Orders': 3, 'Anomaly_Type': 'Peak (High Sales)'}
+  {'Order_Date': Timestamp('2019-05-16 00:00:00'), 'Sales': 31682.059999999998, 'Orders': 5, 'Anomaly_Type': 'Peak (High Sales)'}
+  {'Order_Date': Timestamp('2019-09-03 00:00:00'), 'Sales': 54493.22, 'Orders': 8, 'Anomaly_Type': 'Peak (High Sales)'}
+  {'Order_Date': Timestamp('2019-09-07 00:00:00'), 'Sales': 29785.260000000002, 'Orders': 5, 'Anomaly_Type': 'Peak (High Sales)'}
+  {'Order_Date': Timestamp('2019-09-17 00:00:00'), 'Sales': 52230.630000000005, 'Orders': 5, 'Anomaly_Type': 'Peak (High Sales)'}
+  {'Order_Date': Timestamp('2019-11-05 00:00:00'), 'Sales': 35391.86, 'Orders': 4, 'Anomaly_Type': 'Peak (High Sales)'}
+  {'Order_Date': Timestamp('2019-11-08 00:00:00'), 'Sales': 27292.3, 'Orders': 3, 'Anomaly_Type': 'Peak (High Sales)'}
+  {'Order_Date': Timestamp('2019-11-14 00:00:00'), 'Sales': 42995.04, 'Orders': 4, 'Anomaly_Type': 'Peak (High Sales)'}

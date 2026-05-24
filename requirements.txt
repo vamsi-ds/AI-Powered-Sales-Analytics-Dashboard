@@ -1,0 +1,39 @@
+# AI-Powered Sales Analytics Dashboard
+# Data Analyst Portfolio Project
+# Core Dependencies
+
+# Data Manipulation & Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Data Visualization
+streamlit>=1.28.0
+plotly>=5.15.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+prophet>=1.1.5
+
+# Database
+# SQLite3 (built-in with Python)
+
+# Report Generation
+reportlab>=4.0.0
+fpdf2>=2.7.0
+
+# Utilities
+python-dateutil>=2.8.0
+python-dotenv>=1.0.0
+joblib>=1.3.0
+tqdm>=4.65.0
+
+# Data Download
+kagglehub>=0.1.0
+requests>=2.31.0
+
+# Additional
+holidays>=0.37  # For holiday effects in Prophet
